@@ -9,4 +9,11 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  nitro: {
+    prerender: {
+      routes: ['/'] // Add any additional routes you want pre-rendered
+    }
+  },
+  // For full static site generation
+  ssr: true, // Set to true if you want SSR
 })
