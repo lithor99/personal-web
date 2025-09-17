@@ -64,7 +64,7 @@
 
         <!-- CV Section -->
         <div class="flex justify-center items-center">
-          <div class="px-10 py-4 mt-8 rounded-lg text-white backdrop-blur-sm bg-black/0 border border-white/10"
+          <div class="px-10 py-4 mt-8 mx-4 rounded-lg text-white backdrop-blur-sm bg-black/0 border border-white/10"
             style="width: 100%; max-width: 800px;">
             <h2 class="text-2xl font-bold mb-6 text-center text-yellow-600">Curriculum Vitae</h2>
             <div class="flex flex-col mb-2 sm:flex-row gap-4 justify-center items-center">
@@ -93,7 +93,7 @@
 
         <!-- Programming Skill Section -->
         <div class="flex justify-center items-center">
-          <div class="px-10 py-4 mt-8 rounded-lg text-white backdrop-blur-sm bg-black/0 border border-white/10"
+          <div class="px-10 py-4 mx-4 mt-8 rounded-lg text-white backdrop-blur-sm bg-black/0 border border-white/10"
             style="width: 100%; max-width: 800px;">
             <h2 class="text-2xl font-bold mb-4 text-center text-yellow-600">Programming Skills</h2>
 
