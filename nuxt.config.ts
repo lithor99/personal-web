@@ -15,5 +15,5 @@ export default defineNuxtConfig({
     }
   },
   // For full static site generation
-  ssr: true, // Set to true if you want SSR
+  ssr: false, // Set to true if you want SSR
 })
